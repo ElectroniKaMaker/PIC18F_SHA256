@@ -49,6 +49,8 @@ uint8_t digest[64];
  */
 void main(void)
 {
+    v1
+    
     // Initialize the device
     SYSTEM_Initialize();
 
