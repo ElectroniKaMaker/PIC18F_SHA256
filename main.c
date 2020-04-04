@@ -49,7 +49,7 @@ uint8_t digest[64];
  */
 void main(void)
 {
-    v1
+    v2
     
     // Initialize the device
     SYSTEM_Initialize();
